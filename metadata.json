@@ -1,6 +1,6 @@
 {
-  "name": "$PUF-testnet",
-  "symbol": "PUF",
+  "name": "Testnet PUF",
+  "symbol": "tPUF",
   "description": "Test token for Puf Wallet on Devnet",
   "image": "https://example.com/puf-logo.png"  // Optional: Link to an image (upload separately if needed)
 }
